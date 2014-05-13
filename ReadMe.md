@@ -1,9 +1,6 @@
 # Web Fun
 ## HTML AND CSS
 
-
-## Objectives
-
 ## Outline
 
 * Some HTML
