@@ -74,7 +74,7 @@ Let's say we had **wayyyyy** more text. Are you imagining this very well? No? Ye
 
 People have needed so called filler text for quite a long time, and it's typically known as `Lorem Ipsum`. It's basically garbled latin. Mainstream vintage? Boring! 
 
-Let's grab some more modern Lorem Ipsum Hipster edition, [hipsum](https://wwww.hipsum.com).
+Let's grab some more modern Lorem Ipsum Hipster edition, [hipsum](https://www.hipsum.com).
 
 <img src="hipsum.png"></img>
 
