@@ -19,6 +19,8 @@
 			* `navs`
 		* Crazy Tags
 * Hosting on GitHub pages 
+	* Git and GitHub for Mac Setup
+	* Creating a Repo 
 * Some CSS
 
 
@@ -83,7 +85,7 @@ Let's put 4 paragraphs of Hipsum into our app.
 <img src="hipsum_html.png">
 
 
- Now that we've all that done it's no longer cool (hipster rules, not mine). Luckily we can do a little to get our hipness back.
+ Now that we've all done it, it's no longer cool (hipster rules, not mine). Luckily we can do a little to get our hipness back.
  
 ### The `<p>` tag 
 
@@ -224,12 +226,50 @@ Some crazy tags that are no longer used, and serve little purpose beyond humor a
 
 ### Creating a Repo 
 
-* Let's create a new repo on Github by clicking the plus in the far righthand corner on GitHub and selecting new repository.
+* Open you github for mac application.
 
-	* <img src="create_new_repo.png">
-* Then let's name our new repository `about_me` under repository name.
-	* <img src="github_repo_name.png">
+* <img src="github_for_mac_create.png">
+* Click the plus on the lower lefthand side and select `Create New Repository...`
+	* <img src="github_for_mac_options.png">
+* Name the repo `about_me` and save it to your Documents folder
+	* <img src="create_git_repo.png"> 
 
-* Click Create
 
+### A text editor
+
+* To make this as painless as possible let's just download sublime 
+	* <img src="sublime_download.png">
+* After downloading Sublime we can open up a new document and paste in our JSBin html.
+	*  <img src="sublime_html.png">
+* Then we just save it to our `about_me` folder as `index.html`.
+	* <img src="sublime_save.png"> 
 	
+### Commiting Our Changes
+
+Navigate to the changes tab on the far left in GitHub for mac.
+
+*  <img src="github_for_mac_changes.png">
+
+Then type in a summary of the changes made, like "first commit", and  click `Commit & Sync`.
+
+### Deploying A GitHub Branch
+
+Click the `Branches` tab on the far left, below the `Changes` button from earlier.
+
+Now click the `+` sign on the master branch.
+
+<img src="github_for_mac_branches.png">
+
+Name the new branch `gh-pages` and then click the `Branch` button. Then  to the right of the newly created `gh-pages` branch click the `Publish` button.
+
+
+### Checking Out Our Site
+
+* If you go to your GitHub profile then you'll see our `about_me` repository.
+
+	* <img src="repos_github.png">
+
+* click setting on the right side of your repo's page.
+	* <img height="500px" src="sidebar_github.png">
+* Scroll down to the `GitHub Pages` section and click the link to your publish site!
+
